@@ -1,4 +1,4 @@
-````
+````markdown
 # carey-qlora-fa-mcq
 
 A small end-to-end project: **Persian multiple-choice (MCQ) dataset (100 questions)** + **QLoRA/LoRA fine-tuning** of **Qwen2.5-3B-Instruct** on Kaggle, with **before/after accuracy** evaluation.
